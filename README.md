@@ -14,3 +14,10 @@ Building scalable and problem-solving applications.
 3. What skill do I want to improve?
 I want to improve my frontend and backend skills.
 
+## Goals Shared With the Group Yesterday
+
+- Continue learning how to build problem-solving applications.
+- Improve both frontend and backend development skills.
+- Build scalable projects and contribute practical solutions.
+- Share progress and learn from peers through collaboration.
+
