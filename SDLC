@@ -1,0 +1,38 @@
+1. # What is SDLC?
+   SDLC (Software Development Life Cycle) is a structured process used to develop software from planning to maintenance.
+
+2. **Why is SDLC important?**
+   It ensures software is developed efficiently, systematically, and meets user requirements.
+
+3. **List the seven phases of SDLC.**
+   * Planning
+   * Requirements Analysis
+   * Design
+   * Development (Coding)
+   * Testing
+   * Deployment
+   * Maintenance
+
+4. **Differentiate between functional and non-functional requirements.**
+   * **Functional:** What the system should do.
+   * **Non-functional:** How well the system should perform.
+
+5. **What happens during the testing phase?**
+   The software is tested to find and fix bugs and ensure it meets requirements.
+
+6. **Explain the difference between deployment and maintenance.**
+   * **Deployment:** Releasing the software to users.
+   * **Maintenance:** Updating, improving, and fixing the software after release.
+
+7. **Compare the Waterfall and Agile models.**
+   * **Waterfall:** Sequential and rigid.
+   * **Agile:** Iterative, flexible, and adaptive to changes.
+
+8. **Who are the major stakeholders involved in SDLC?**
+   Clients, users, project managers, business analysts, developers, testers, and maintenance teams.
+
+9. **What is User Acceptance Testing (UAT)?**
+   Testing performed by end users to confirm the software meets their needs.
+
+10. **Why is maintenance important after deployment?**
+    To fix bugs, improve performance, enhance security, and adapt to changing user requirements.
