@@ -1,0 +1,42 @@
+Generate a full-stack Course Registration Portal using:
+
+Frontend:
+- Vue 3
+- Tailwind CSS
+- Pinia
+- Vue Router
+
+Backend:
+- Laravel 12
+- Laravel Sanctum
+
+Database:
+- MySQL
+
+Features:
+- Admin Login
+- Student Login
+- Dashboard
+- Course Management
+- Course Registration
+- Student Management
+- Search & Filter
+- Role-Based Access Control
+- Responsive UI
+
+Generate:
+- System Architecture
+- Database Schema
+- API Endpoints
+- Laravel Models
+- Migrations
+- Controllers
+- Middleware
+- Vue Components
+- Pinia Stores
+- Route Guards
+- Form Validation
+- Unit Tests
+- Deployment Guide
+
+Follow Clean Architecture and SOLID principles.
