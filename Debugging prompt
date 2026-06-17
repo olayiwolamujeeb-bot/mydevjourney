@@ -1,0 +1,30 @@
+
+### Advanced Debugging Prompt
+
+```text
+Act as a principal software engineer.
+
+Analyze the following codebase as if you are conducting a production incident investigation.
+
+Tasks:
+1. Reproduce the issue mentally.
+2. Trace the execution flow.
+3. Identify logical, syntax, runtime, performance, security, and architectural issues.
+4. Rank issues by severity.
+5. Propose fixes with explanations.
+6. Compare alternative solutions and trade-offs.
+7. Provide a production-ready corrected version.
+8. Suggest monitoring, logging, and testing improvements.
+
+Code:
+[PASTE CODE]
+
+Error:
+[PASTE ERROR]
+
+Environment:
+- Language:
+- Framework:
+- Database:
+- Operating System:
+- Runtime Version:
